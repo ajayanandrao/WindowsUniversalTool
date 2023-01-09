@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/WindowsUniversalTool/static/css/main.da98aef3.css",
+    "main.js": "/WindowsUniversalTool/static/js/main.bce76bcf.js",
+    "static/js/554.db11a8f1.chunk.js": "/WindowsUniversalTool/static/js/554.db11a8f1.chunk.js",
+    "static/js/787.6cf5c74a.chunk.js": "/WindowsUniversalTool/static/js/787.6cf5c74a.chunk.js",
+    "static/media/in.mp4": "/WindowsUniversalTool/static/media/in.2b560aa95a38d1484ee2.mp4",
+    "static/media/Onedrive.zip": "/WindowsUniversalTool/static/media/Onedrive.e4ae07fc1270a7a2fc40.zip",
+    "static/media/Store.zip": "/WindowsUniversalTool/static/media/Store.9275a5ff3813dbedd39a.zip",
+    "static/media/Weather.zip": "/WindowsUniversalTool/static/media/Weather.710bcd14924803fe8f24.zip",
+    "static/media/PeopleApp.zip": "/WindowsUniversalTool/static/media/PeopleApp.3dcf016c8a43f7fbfe59.zip",
+    "static/media/err.gif": "/WindowsUniversalTool/static/media/err.7a956a5c112c15808438.gif",
+    "static/media/w3.png": "/WindowsUniversalTool/static/media/w3.f511ccd16a09cbc04f3b.png",
+    "static/media/aw3.png": "/WindowsUniversalTool/static/media/aw3.69eb5177f5a6f9084d60.png",
+    "static/media/wut1.png": "/WindowsUniversalTool/static/media/wut1.0c02e1b9aeeef5c186f6.png",
+    "static/media/ng4.png": "/WindowsUniversalTool/static/media/ng4.e6ad217c8069917b379f.png",
+    "index.html": "/WindowsUniversalTool/index.html",
+    "main.da98aef3.css.map": "/WindowsUniversalTool/static/css/main.da98aef3.css.map",
+    "main.bce76bcf.js.map": "/WindowsUniversalTool/static/js/main.bce76bcf.js.map",
+    "554.db11a8f1.chunk.js.map": "/WindowsUniversalTool/static/js/554.db11a8f1.chunk.js.map",
+    "787.6cf5c74a.chunk.js.map": "/WindowsUniversalTool/static/js/787.6cf5c74a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da98aef3.css",
+    "static/js/main.bce76bcf.js"
+  ]
+}
